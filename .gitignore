@@ -1,6 +1,8 @@
 # Yongmimi Adds
 samples/
 kakaomapkey.txt
+chromedriver.exe
+
 # Editors
 .vscode/
 .idea/
